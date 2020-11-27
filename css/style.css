@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Piazzolla:wght@100&family=Poppins:wght@300&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: "Piazzolla", serif; 
+	font-size: 19px;
+	margin: 0px;
+}
+h1, h2, h3 {
+	font-family: "Poppins", sans-serif; 
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
